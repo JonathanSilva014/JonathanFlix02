@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JonathanFlix02/static/css/main.cadce482.css",
+    "main.js": "/JonathanFlix02/static/js/main.adf97838.js",
+    "index.html": "/JonathanFlix02/index.html",
+    "main.cadce482.css.map": "/JonathanFlix02/static/css/main.cadce482.css.map",
+    "main.adf97838.js.map": "/JonathanFlix02/static/js/main.adf97838.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cadce482.css",
+    "static/js/main.adf97838.js"
+  ]
+}
